@@ -66,10 +66,7 @@ def QRcode_gen(barcode_data):
 def check_file(imagefile):
     # Get current working directory
     current_dir = os.getcwd()
-
-    #print(current_dir)
-
-    filename = 'image.jpg'
+    # Join current directory with file name
     path = os.path.join(current_dir, imagefile)
 
     # Check whether the specified
