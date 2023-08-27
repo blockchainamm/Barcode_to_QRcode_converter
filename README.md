@@ -14,8 +14,8 @@ For a given image such as,
 
 ![barcodeimage_small](https://github.com/blockchainamm/blockchainamm/assets/82846751/be9db3dc-aa28-4abe-ad82-3db73c38eeb7)
 
-The barcode data is JJD014600011157960726
-The barcode unique code is of type CODE128
+- The barcode data is JJD014600011157960726
+- The barcode unique code is of type CODE128
 
 The QR code generated based on the decoded barcode data from the input file is shown below,
 
